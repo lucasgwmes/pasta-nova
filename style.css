@@ -1,0 +1,52 @@
+    *{
+        font-family:"Alice", serif; 
+    }
+
+/* fundo do projeto*/
+    body{
+        background-image: url(./bg-image.png);
+        background: ;
+    }
+    /* aonde escrever */
+    header{
+        width: 800px;
+        height: 1440px ;
+        background-color:#F0E8C2 ; 
+        margin-top: 48px;
+        margin-left: 240px;
+        margin-right: 240px;
+        margin-bottom: 48px;
+        border-radius: 24px;
+    }
+    /* imagens*/
+    container{
+        display: flex;
+        padding: 24px ;
+        justify-content: center;
+        border-radius: 24px;
+    }
+    /*introdução*/
+    h1{
+        color: #291B1A;
+    }
+    div{
+        padding: 0px 48px;
+    }
+    p{
+        color: #573A37;
+    }
+/*ingredientes */
+    .ingredientes{
+        padding-top: 24px;
+    }
+
+h2 {
+        color: #291B1A;
+    }
+ul{
+    color: #573A37;
+
+}
+footer{
+    padding: 0 48px;
+}
